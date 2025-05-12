@@ -24,7 +24,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Aditya's GitHub stats]([https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical](https://github.com/adi3733))
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ---
 
