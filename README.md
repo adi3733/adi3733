@@ -20,11 +20,14 @@
 - **Tools & Platforms:** Arduino, Proteus, Multisim, MATLAB, Power BI  
 - **Web:** HTML, CSS, Git & GitHub  
 - **Soft Skills:** Leadership, Teamwork, Problem Solving, Communication
+- ![adi3733's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adi3733&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
 ### 📈 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![adi3733's Stats](https://github-readme-stats.vercel.app/api?username=adi3733&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
+
+![adi3733's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adi3733&theme=vue-dark&hide_border=true)
 
 ---
 
